@@ -1,10 +1,10 @@
-scala 运行脚本
+## scala 运行脚本
     // hello.scala
     println("Hello, world!")
     $ scala hello.scala
     Hello, world!
 
-scala 编译非脚本文件
+##  scala 编译非脚本文件
     //非脚本文件一定是以定义结尾的，例如定义的class、object、package等等。
     class Hello {
     val hw = "Hello, world!"
